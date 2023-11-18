@@ -1,0 +1,1 @@
+creates worknote.txt file
